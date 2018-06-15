@@ -6,3 +6,4 @@ dd.txt filter=lfs diff=lfs merge=lfs -text lockable
 ee.txt filter=lfs diff=lfs merge=lfs -text lockable
 1.txt filter=lfs diff=lfs merge=lfs -text lockable
 2.txt filter=lfs diff=lfs merge=lfs -text lockable
+*.txt filter=lfs diff=lfs merge=lfs -text lockable
